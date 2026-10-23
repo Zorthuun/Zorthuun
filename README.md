@@ -1,6 +1,6 @@
 # whoami
 
-Penetration testing practitioner based in Windhoek, Namibia. Sysadmin background, transitioning into offensive security with a focus on Active Directory, internal network testing, and web application assessment.
+Penetration testing practitioner based in Mossel Bay, South Africa. Sysadmin background, transitioning into offensive security with a focus on Active Directory, internal network testing, and web application assessment.
 
 ## Currently
 
